@@ -10,7 +10,7 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 `3.` **Create a job chain of job1, job2, job3 and job4 using build pipeline plugin in Jenkins**.
 
-`4.` **`Job2 ( Seed Job )`** :  *  _**Pull the Github repo automatically when some developers push repo to Github**_!
+`4.` **`Job2 ( Seed Job )`** :  *  _**Pull the Github repo automatically when some developers push repo to Github_!**
 
 `5.` **Further on jobs should be pipeline using written code using Groovy language by the developer**.
 
