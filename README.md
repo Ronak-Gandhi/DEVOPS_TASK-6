@@ -25,3 +25,8 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
  `7.` **`Job3`** : _**Test your app if it is working or not**_!
   
  `8.` **`Job4`** : _**if app is not working , then send email to developer with error messages and redeploy the application after code is being edited by the developer**_!
+
+---
+
+**Dockerfile**:_
+
