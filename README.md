@@ -20,7 +20,7 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
   * _**Expose your pod so that testing team could perform the testing on the pod**_!
 
-  * _**Make the data to remain persistent using PVC ( If server collects some data like logs,other user information )!
+  * _**Make the data to remain persistent using PVC ( If server collects some data like logs,other user information )**_!
   
  `7.` **`Job3`** : _**Test your app if it is working or not**_!
   
