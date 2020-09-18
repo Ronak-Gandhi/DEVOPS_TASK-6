@@ -28,5 +28,7 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 ---
 
-**Dockerfile**:_
+* **Dockerfile**:-
+
+![Screenshot (207)](https://user-images.githubusercontent.com/64469896/93621285-f53f6680-f9f8-11ea-82ae-32b41d3a2705.png)
 
