@@ -48,7 +48,6 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 ![Screenshot (210)](https://user-images.githubusercontent.com/64469896/93670736-313b0000-fabb-11ea-83a0-c6a8f6e150a9.png)
 
-![Screenshot (211)](https://user-images.githubusercontent.com/64469896/93670809-baeacd80-fabb-11ea-95bf-f6358e1ccbd1.png)
 
 
 * **`GROOVY  CODE`** :-
