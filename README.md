@@ -33,4 +33,17 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 ![Screenshot (207)](https://user-images.githubusercontent.com/64469896/93621285-f53f6680-f9f8-11ea-82ae-32b41d3a2705.png)
 
 
+* _To use Groovy code,we have to download a plugin ,called **Job DSL** !!_
+
+
+
+To use the Job DSL plugin, you first need to create a seed job. The seed job is a Jenkins job which runs a DSL scripts, and then generates a new job. The seed job is a normal free-style Jenkins job that you add the “Process Job DSL” build step. This step takes the DSL and generates the configured jobs.
+
+
+
+
+
+
+
+
 
