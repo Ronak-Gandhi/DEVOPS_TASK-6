@@ -67,4 +67,19 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 * **`JOB-3`** :-
 
+~ Here i merged job-3(testing) and job-4(email):-
 
+![Screenshot (222)](https://user-images.githubusercontent.com/64469896/93686235-93532f80-fad2-11ea-9e4b-487d62c45d4f.png)
+
+![Screenshot (223)](https://user-images.githubusercontent.com/64469896/93686236-951cf300-fad2-11ea-9ef2-cea39cb79b29.png)
+
+![2](https://user-images.githubusercontent.com/64469896/93686247-9f3ef180-fad2-11ea-8bd0-b59961adb892.jpg)
+
+![Screenshot (225)](https://user-images.githubusercontent.com/64469896/93686252-a665ff80-fad2-11ea-8347-38020e730fbd.png)
+
+**Configuration**:-
+
+![3](https://user-images.githubusercontent.com/64469896/93686253-ab2ab380-fad2-11ea-8026-3b0af3393a08.jpg)
+
+
+## THANK YOU !!
