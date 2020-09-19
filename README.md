@@ -59,7 +59,11 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 * **`JOB-2`** :-
 
+![Screenshot (220)](https://user-images.githubusercontent.com/64469896/93685967-bc72c080-fad0-11ea-80fe-26f3cce9656f.png)
+
+![Screenshot (221)](https://user-images.githubusercontent.com/64469896/93685970-bed51a80-fad0-11ea-8231-ffbc54191b07.png)
 
 
+* **`JOB-3`** :-
 
 
