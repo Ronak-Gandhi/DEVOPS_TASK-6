@@ -53,7 +53,7 @@ _Perform third task with the help of Jenkins coding(groovy) file ( called as Jen
 
 * **`GROOVY  CODE`** :-
 
-![InkedScreenshot (219)_LI](https://user-images.github usercontent.com/64469896/93671002-18334e80-fabd-11ea-83c3-b9435e82ab5a.jpg)
+
 
 ~ After running Job-1 , rest other jobs will also creates..
 
